@@ -1,0 +1,68 @@
+<svg width="1000" height="390" viewBox="0 0 1000 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1000" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090D16"/>
+      <stop offset="0.5" stop-color="#0E1424"/>
+      <stop offset="1" stop-color="#081018"/>
+    </linearGradient>
+    <linearGradient id="border" x1="60" y1="50" x2="940" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E7FF"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <clipPath id="avatarClip">
+      <circle cx="210" cy="194" r="112"/>
+    </clipPath>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="984" height="374" rx="28" fill="url(#panel)" stroke="url(#border)" stroke-width="2"/>
+  <rect x="28" y="28" width="944" height="334" rx="20" stroke="#FFFFFF" stroke-opacity="0.06"/>
+
+  <g>
+    <circle cx="210" cy="194" r="126" stroke="#00E7FF" stroke-opacity="0.2" stroke-width="2"/>
+    <circle cx="210" cy="194" r="117" fill="#111827" stroke="#8B5CF6" stroke-width="2"/>
+    <image href="https://github.com/khanking0316120.png?size=260" x="98" y="82" width="224" height="224" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+    <circle cx="210" cy="194" r="112" fill="none" stroke="#22D3EE" stroke-opacity="0.5"/>
+
+    <line x1="101" x2="319" y1="115" y2="115" stroke="#00E7FF" stroke-width="3" filter="url(#softGlow)">
+      <animate attributeName="y1" values="95;292;95" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="95;292;95" dur="2.8s" repeatCount="indefinite"/>
+    </line>
+    <rect x="101" y="105" width="218" height="28" fill="#00E7FF" opacity="0.06">
+      <animate attributeName="y" values="85;282;85" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+
+    <path d="M78 111V72H117M342 111V72H303M78 277V316H117M342 277V316H303"
+          stroke="#00E7FF" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g font-family="monospace">
+    <text x="390" y="85" fill="#00E7FF" font-size="15">IDENTITY_SCAN // ACTIVE</text>
+    <text x="390" y="126" fill="#FFFFFF" font-size="31" font-weight="700">MUHAMMED MASSAB</text>
+    <text x="390" y="159" fill="#AAB3C4" font-size="17">Full Stack Web Developer • Flutter • AI</text>
+
+    <text x="390" y="207" fill="#8B5CF6" font-size="15">STATUS</text>
+    <text x="484" y="207" fill="#E5E7EB" font-size="15">BUILDING</text>
+    <circle cx="570" cy="202" r="5" fill="#22C55E">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="390" y="241" fill="#8B5CF6" font-size="15">FOCUS</text>
+    <text x="484" y="241" fill="#E5E7EB" font-size="15">AI-INTEGRATED PRODUCTS</text>
+
+    <text x="390" y="275" fill="#8B5CF6" font-size="15">STACK</text>
+    <text x="484" y="275" fill="#E5E7EB" font-size="15">REACT • FLUTTER • NODE • FIREBASE</text>
+
+    <text x="390" y="309" fill="#8B5CF6" font-size="15">MODE</text>
+    <text x="484" y="309" fill="#E5E7EB" font-size="15">SHIP → LEARN → IMPROVE → REPEAT</text>
+
+    <rect x="390" y="330" width="476" height="5" rx="2.5" fill="#111827"/>
+    <rect x="390" y="330" width="160" height="5" rx="2.5" fill="#00E7FF">
+      <animate attributeName="width" values="0;476;0" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

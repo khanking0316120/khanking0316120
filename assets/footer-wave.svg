@@ -1,0 +1,20 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E7FF"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 64C160 10 300 110 470 58C640 6 820 110 1200 44" stroke="url(#wave)" stroke-width="3" opacity="0.7">
+    <animate attributeName="d"
+      values="M0 64C160 10 300 110 470 58C640 6 820 110 1200 44;
+              M0 46C180 104 330 5 510 61C700 118 875 18 1200 66;
+              M0 64C160 10 300 110 470 58C640 6 820 110 1200 44"
+      dur="7s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="90" cy="64" r="5" fill="#00E7FF">
+    <animate attributeName="cx" values="0;1200" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="64;46;66;64" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
