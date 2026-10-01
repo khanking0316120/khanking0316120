@@ -1,24 +1,175 @@
-<h1 align="center">Hi 👋, I'm Muhammed Massab</h1>
-<h3 align="center">A passionate Full Stack Web Developer, Flutter Enthusiast, and AI Automation Builder from Pakistan.</h3>
+ <!-- Futuristic Animated GitHub Profile | Muhammed Massab -->
 
-- 🔭 I’m currently working on **AI-integrated mobile applications**
+<div align="center">
 
-- 🌱 I’m currently learning **Advanced full-stack architectures and new AI automation workflows**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:172554,100:7C3AED&height=220&section=header&text=MUHAMMED%20MASSAB&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20AUTOMATION%20ENGINEER&descSize=14&descAlignY=58&animation=fadeIn" width="100%" />
 
-- 👯 I’m looking to collaborate on **Full-stack web applications, AI automation tools, and open-source Flutter projects.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;Flutter+%26+Mobile+App+Developer+%F0%9F%93%B1;AI+Automation+Builder+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
 
-- 🤝 I’m looking for help with **Advanced backend architectures and scaling AI-powered applications.**
+<br/>
 
-- 💬 Ask me about **React.js, Backend Development (C#, SQL), Flutter, Dart, and AI Automations.**
+<a href="https://github.com/khanking0316120">
+<img src="https://komarev.com/ghpvc/?username=khanking0316120&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
+</a>
 
-- 📫 How to reach me **mohammadmassab75@gmail.com**
+<a href="https://github.com/khanking0316120?tab=followers">
+<img src="https://img.shields.io/github/followers/khanking0316120?style=for-the-badge&logo=github&color=0EA5E9&label=FOLLOWERS" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-massab-891208300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-massab-891208300" height="30" width="40" /></a>
+</div>
+
+---
+
+## `> WHO_AM_I`
+
+<img align="right" alt="Coding animation" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```yaml
+name: Muhammed Massab
+location: Pakistan
+role: Full Stack Developer
+currently_building: AI-integrated applications
+interests:
+  - Full Stack Engineering
+  - Flutter Development
+  - AI & Workflow Automation
+  - Backend Architecture
+  - Open Source
+
+currently_learning:
+  - Advanced System Design
+  - Scalable Backend Systems
+  - AI Automation Workflows
+
+mindset: "Build. Learn. Automate. Repeat."
+```
+
+* Building modern web and mobile applications.
+* Exploring intelligent AI-powered workflows.
+* Interested in scalable backend systems and clean architecture.
+* Always learning, experimenting, and creating.
+
+<br clear="right"/>
+
+---
+
+## `> TECH_STACK`
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,cs,dart,cpp,html,css&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Frontend & Mobile
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khanking0316120&show_icons=true&locale=en&layout=compact" alt="khanking0316120" /></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,android&theme=dark" />
+</p>
+
+### Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,express,mongodb,mysql,firebase&theme=dark" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker&theme=dark" />
+</p>
+
+---
+
+## `> GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khanking0316120&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khanking0316120&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" />
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanking0316120&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" />
+
+</div>
+
+---
+
+## `> CONTRIBUTION_ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khanking0316120&bg_color=0D1117&color=38BDF8&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+### Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/khanking0316120/khanking0316120/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+
+</div>
+
+---
+
+## `> WHAT_I_BUILD`
+
+<div align="center">
+
+|       Focus      | Description                                |
+| :--------------: | :----------------------------------------- |
+|   🌐 Full Stack  | Modern, responsive web applications        |
+|    📱 Flutter    | Cross-platform mobile experiences          |
+| 🤖 AI Automation | Intelligent workflows and integrations     |
+|    ⚙️ Backend    | APIs, databases, and scalable systems      |
+|  🚀 Open Source  | Tools, experiments, and community projects |
+
+</div>
+
+---
+
+## `> CURRENT_MISSION`
+
+```javascript
+const massab = {
+  code: ["JavaScript", "C#", "Dart", "SQL"],
+  technologies: ["React", "Flutter", "Node.js", "Firebase"],
+  focus: "AI-powered applications",
+  learning: ["System Design", "Backend Scaling", "AI Automation"],
+
+  motto: () => {
+    console.log("Dream it. Build it. Ship it. 🚀");
+  }
+};
+
+massab.motto();
+```
+
+---
+
+## `> CONNECT_WITH_ME`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-massab-891208300">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mohammadmassab75@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/khanking0316120">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### ✨ "Code is not just what I write, it's what I create."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:172554,100:050816&height=120&section=footer" width="100%" />
+
+</div>
+
+<!-- End of Profile README -->
